@@ -4,7 +4,7 @@
 This Huffman encoding was implemented for the ECM141 Data Structures and Algorithms Course.
 
 ## Built With
-This project was built with [Java, Version 15.0.2](https://www.oracle.com/hk/java/technologies/javase-downloads.html) using the IDE [Intellij](https://www.jetbrains.com/idea/)
+This project was built with [Java](https://www.oracle.com/hk/java/technologies/javase-downloads.html) using the IDE [Intellij](https://www.jetbrains.com/idea/)
 
 ## Getting Started
 1. Please paste your text you want copied to the root of the project folder
