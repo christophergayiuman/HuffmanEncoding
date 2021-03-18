@@ -16,6 +16,8 @@ This project was built with [Java Ver 15.0.2](https://www.oracle.com/hk/java/tec
 (note:)
   You will be able to see the compressed file after your first compression found within the main project folder labeled as "output_file.bin"
 
+![Image of Terminal Example](https://github.com/christophergayiuman/HuffmanEncoding/blob/main/codeExample.png)
+
 ## Project Contents
 Found within the project file will include:
 * Huffman Encoding.java
