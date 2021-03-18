@@ -14,7 +14,23 @@ This project was built with [Java](https://www.oracle.com/hk/java/technologies/j
 (note:)
   You will be able to see the compressed file after your first compression found within the main project folder labeled as "output_file.bin"
 
+## Contributing
+Please feel free to contribute to this project, since this is an open source project contributions made are appreciated.
+1. Fork the Project
+2. Create your Feature Branch
+3. Commit your Changes
+4. Push to the Branch
+5. Open a Pull Request
+
 ## Contact
 Christopher Man - [cgym201@exeter.ac.uk](cgym201@exeter.ac.uk)
 
 Project Link: [https://github.com/christophergayiuman/HuffmanEncoding](https://github.com/christophergayiuman/HuffmanEncoding)
+
+## Acknowledgements
+* [Github Template Guide](https://github.com/othneildrew/Best-README-Template)
+* [Mastering Github Markdown](https://guides.github.com/features/mastering-markdown/)
+* [Wiki HuffmanEncoding](https://en.wikipedia.org/wiki/Huffman_coding)
+* [HuffmanEncoding HowTo Youtube Guide](https://www.youtube.com/watch?v=ceECSn0W3pE&ab_channel=QuinstonPimenta)
+* [HuffmanEncoding Java Implimentation](https://www.youtube.com/watch?v=zSsTG3Flo-I&ab_channel=SoftwareArchitecture%26Design)
+* [Geeks4Geeks HuffmanEncoding Explanation](https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/)
