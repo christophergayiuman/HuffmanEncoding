@@ -13,9 +13,7 @@ This project was built with [Java](https://www.oracle.com/hk/java/technologies/j
 4. Interact with the terminal window for the project
 5. Follow the instructions printed in the terminal screen
 
-(Note:)
-
-  You will be able to see the compressed file after your first compression found within the main project folder labeled as "output_file.bin"
+(Note:) You will be able to see the compressed file after your first compression found within the main project folder labeled as "output_file.bin"
 
 ![Image of Terminal Example](https://github.com/christophergayiuman/HuffmanEncoding/blob/main/codeExample.png)
 
