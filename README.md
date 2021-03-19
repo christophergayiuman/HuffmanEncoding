@@ -7,6 +7,8 @@ This Huffman encoding was implemented for the ECM141 Data Structures and Algorit
 This project was built with [Java](https://www.oracle.com/hk/java/technologies/javase-downloads.html) using the IDE [Intellij](https://www.jetbrains.com/idea/)
 
 ## Getting Started
+Video Project Guide: [https://www.youtube.com/watch?v=dCm8O1ZxFs8&ab_channel=ChristopherMan](https://www.youtube.com/watch?v=dCm8O1ZxFs8&ab_channel=ChristopherMan)
+
 1. Please paste your text you want copied to the root of the project folder
 * Or you could copy the contents of your text you want compressed to the existing text.txt file
 3. From the project folder please run main within HuffmanEncoding.java class
