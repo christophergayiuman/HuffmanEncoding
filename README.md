@@ -26,6 +26,9 @@ Found within the project file will include:
 * output_file.bin
 * text.txt
 
+# Javadocs
+There is a detailed javadocs found within the "Javadoc" folder within the root of the project. Please read it for further doccumentation
+
 ## Contributing
 Please feel free to contribute to this project, since this is an open source project contributions made are appreciated.
 1. Fork the Project
