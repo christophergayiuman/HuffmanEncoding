@@ -35,7 +35,9 @@ Please feel free to contribute to this project, since this is an open source pro
 5. Open a Pull Request
 
 ## Contact
-Christopher Man - [cgym201@exeter.ac.uk](cgym201@exeter.ac.uk)
+Christopher Man 
+- [christophergayiuman@gmail.com](christophergayiuman@gmail.com)
+- [cgym201@exeter.ac.uk](cgym201@exeter.ac.uk)
 
 Project Link: [https://github.com/christophergayiuman/HuffmanEncoding](https://github.com/christophergayiuman/HuffmanEncoding)
 
